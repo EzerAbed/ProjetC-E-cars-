@@ -1,0 +1,20 @@
+Le nom de la marque est : Renault
+le mode de la voiture est : Clio4
+La matricule de la voiture est: exemplematricule1
+La couleur de la voiture est: blue
+L'etat de la voiture est: BonneEtat
+Le prix de location de la voiture est: 123.45
+La cautisaion par jour de la voiture est: 6.78
+La cautisaion par mois de la voiture est: 9.12
+a cautisaion par ans de la voiture est: 23.456
+historique de location : location1.txt
+Le nom de la marque est : Renault
+le mode de la voiture est : Clio5
+La matricule de la voiture est: exemplematricule2
+La couleur de la voiture est: rouge
+L'etat de la voiture est: BonneEtat
+Le prix de location de la voiture est: 234.56
+La cautisaion par jour de la voiture est: 7.89
+La cautisaion par mois de la voiture est: 10.234
+a cautisaion par ans de la voiture est: 53.21
+historique de location : location2.txt
