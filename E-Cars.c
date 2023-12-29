@@ -465,6 +465,7 @@ int main(){
     DateFinLocation = SaisieDate();
     list_de_voiture_disponible = MarqueList("MarqueRENAULT.txt");
     AfficherVoiture("MarqueRENAULT.txt");
+    strcpy(list_de_voiture_disponible->data.LocataireActuelle.Data.nom, "Personne");
     LouerVoiture(client, list_de_voiture_disponible->data, debutlocation , DateFinLocation, list_de_voiture_disponible->data.NomFicher);
     HistoriqueDeLocation(list_de_voiture_disponible->data);
     RetourSousReclamation(list_de_voiture_disponible->data);
